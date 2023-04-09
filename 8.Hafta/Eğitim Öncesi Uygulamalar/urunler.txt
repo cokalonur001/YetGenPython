@@ -1,2 +1,2 @@
-Muz,5
-Muz,10
+sırt çantası,5
+
