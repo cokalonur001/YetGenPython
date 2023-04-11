@@ -1,4 +1,6 @@
-VKİ = 27.777777777777775 ve sonucunuz FazlaKilolu
-VKİ = 27.777777777777775 ve sonucunuz FazlaKilolu
-VKİ = 27.777777777777775 ve sonucunuz FazlaKilolu
-VKİ = 23.148148148148145 ve sonucunuz Normal
+Onur Çokal VKİ = 27.777777777777775 ve sonucunuz FazlaKilolu
+Mahmutcan Aydınoğlu VKİ = 41.804771716085874 ve sonucunuz MorbidObez
+Mahmutcan Aydınoğlu VKİ = 41.804771716085874 ve sonucunuz MorbidObez
+Eray Avcı VKİ = 31.020408163265305 ve sonucunuz Obez
+Eray Avcı VKİ = 28.367523664486843 ve sonucunuz FazlaKilolu
+Onur Çokal VKİ = 29.320987654320987 ve sonucunuz FazlaKilolu
